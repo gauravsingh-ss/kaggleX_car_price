@@ -1,2 +1,3 @@
-# kaggleX_car_price
-The goal of this challenege was to predict the used car price.
+## Objective
+<br>
+To develop and implement a robust machine learning model for predicting used car prices, leveraging advanced techniques like neural networks with ReLU activation, dropout for regularization, and batch normalization. This project involved preprocessing a dataset of over 55,000 records by handling missing data, normalizing features, encoding categorical variables, and using regex for text data cleaning. The model was built using Keras and TensorFlow, optimized with the Adam optimizer, and evaluated using Mean Squared Error (MSE) and Mean Absolute Error (MAE) for accurate prediction of car prices based on various features.
